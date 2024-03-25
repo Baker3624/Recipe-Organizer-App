@@ -1,41 +1,61 @@
-# Recipe-Organizer-App
-Project description
-The app that I will be developing is a recipe organizer that allows users to save recipes from websites, friends, and family, or enter their own. This app will also allow users to organize recipes in alphabetical order or by the date it was saved. Users will be able to search for the name of a recipe to save time from scanning through an entire list. What makes this app unique is that users will be able to create a shopping list of the ingredients they need. 
-Problem addressing
-The problem that this app will be addressing is people forgetting recipes or having them written down in a book. A recipe book can get damaged, fade, or fill up over time, so the need for another recipe book to rewrite recipes can be time-consuming. Almost everyone has a smart device today, so with this app, they will be able to save recipes they find, get from others, or come up with themselves. 
-Platform
-The platform will be a mobile application for Android devices.
-Front/Back End
-On the front end, there will be an intuitive design that allows for seamless navigation, a responsive layout for various screen sizes and different orientations, and user user-friendly that allows users to easily navigate.
-On the back end, storage of user-generated content such as shopping lists and recipes, security measures that will ensure user data is safe, and efficient data processing to ensure the app runs smoothly.
-Functionality
-Manage Recipes
-•	Save recipes from websites or enter them manually.
-•	Allow for organization into categories (Breakfast, Lunch, Dinner, Desserts).
-•	Search and filter feature.
-Shopping List
-•	Create a shopping list based on a selected recipe.
-•	Allow for items to be added or removed.
-•	Able to mark items as purchased.
-Categorization
-•	Allows for recipes to be categorized based on type or occasion.
-•	Give the option to personalize or favorite recipes.
-Sharing
-•	Allows users to share with family and friends through text messages, email, or social media.
-Design (Wireframes)
-Home Screen
-•	Navigation menu to access different sections (Recipes, Shopping List, Settings)
-•	Favorited Recipes
-Recipe View
-•	Displays recipe details including ingredients, cooking time, and instructions.
-•	Option to save or add a recipe to a meal plan.
-•	Option to favorite recipe.
-Shopping List
-•	Itemized list with checkboxes.
-•	Ability to change quantities or remove items.
-Category Management
-•	Ability to use visual representations to categorize with custom icon colors.
-•	Drag-and-drop for easy organization.
-Settings
-•	User preferences such as units of measurement.
-•	Account management options for profile settings.
+# Recipe Organizer App
+
+## Project Description
+The Recipe Organizer App is designed to simplify the process of managing and accessing recipes. Users can save recipes from various sources, including websites, friends, and family, or input their own. The app allows for easy organization of recipes, enabling users to sort them alphabetically or by the date they were saved. Additionally, users can create shopping lists directly from recipes, streamlining their grocery shopping experience.
+
+## Problem Addressing
+The app addresses the common problem of forgetting or misplacing recipes, often written down in books that can become damaged or lost over time. By providing a digital platform accessible on smart devices, users can securely store and access their recipes anytime, anywhere. This eliminates the need for manual transcription or searching through physical recipe collections.
+
+## Platform
+The Recipe Organizer App will be available as a mobile application specifically developed for Android devices, ensuring accessibility to a wide user base.
+
+## Front/Back End
+### Front End
+- Intuitive Design: The app features an intuitive user interface for seamless navigation.
+- Responsive Layout: The layout adapts to various screen sizes and orientations for optimal user experience.
+- User-Friendly: User-centric design principles are employed to enhance usability and accessibility.
+
+### Back End
+- Storage: User-generated content such as recipes and shopping lists are securely stored.
+- Security Measures: Robust security protocols are implemented to protect user data.
+- Data Processing: Efficient data processing mechanisms are employed to ensure smooth app operation.
+
+## Functionality
+### Manage Recipes
+- Save recipes from websites or input manually.
+- Organize recipes into categories (Breakfast, Lunch, Dinner, Desserts).
+- Search and filter feature for easy recipe retrieval.
+
+### Shopping List
+- Generate a shopping list based on selected recipes.
+- Add or remove items as needed.
+- Mark items as purchased for tracking.
+
+### Categorization
+- Categorize recipes based on type or occasion.
+- Personalize or favorite recipes for quick access.
+
+### Sharing
+- Share recipes with family and friends via text messages, email, or social media platforms.
+
+## Design (Wireframes)
+### Home Screen
+- Navigation menu to access different sections (Recipes, Shopping List, Settings).
+- Display of favorited recipes.
+
+### Recipe View
+- Detailed display of recipe including ingredients, cooking time, and instructions.
+- Option to save or add a recipe to a meal plan.
+- Ability to favorite a recipe for quick reference.
+
+### Shopping List
+- Itemized list with checkboxes for easy tracking.
+- Option to adjust quantities or remove items.
+
+### Category Management
+- Visual representations for categorization with customizable icon colors.
+- Drag-and-drop functionality for effortless organization.
+
+### Settings
+- User preferences such as units of measurement.
+- Account management options for profile settings.
